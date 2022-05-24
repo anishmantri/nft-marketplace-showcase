@@ -8,10 +8,10 @@ const Download = () => {
     <div className={`${styles.section} ${styles.bgWhite}`}>
       <div className={`${styles.subSection} flex-col text-center`}>
         <div>
-          <h1 className={`${styles.h1Text} ${styles.blackText}`}>Download the Source Code</h1>
-          <p className={`${styles.pText} ${styles.blackText}`}>Get the full source code on GitHub</p>
+          <h1 className={`${styles.h1Text} ${styles.blackText}`}>Go Deeper</h1>
+          <p className={`${styles.pText} ${styles.blackText}`}>Explore more Alpenglow Studio products</p>
         </div>
-        <button className={styles.btnPrimary}>Source Code</button>
+        <button className={styles.btnPrimary}>Website</button>
         <div className={styles.flexCenter}>
           <img 
             src={assets.scene}
